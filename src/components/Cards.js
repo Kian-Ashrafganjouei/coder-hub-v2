@@ -6,7 +6,7 @@ import '../App.css'
 function Cards() {
   return (
     <div className='cards'>
-      <h1>The most popular programing langauges!</h1>
+      <h1>The most popular programming langauges!</h1>
       <div className='cards__container'>
         <div className='cards__wrapper'>
           <ul className='cards__items'>

@@ -1,10 +1,12 @@
 import React from 'react';
 import '../../App.css';
 import HeroOther from '../HeroOther'
+import Navbar from '../Navbar';
 
 export default function Videos() {
   return(
     <>
+
     <HeroOther title={"Video Tutorials"} desc={"Master the languages through videos"}/>
     <div id="outerplayer">
       <div className='videoplayer'> 

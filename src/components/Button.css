@@ -3,11 +3,15 @@
 }
 
 .btn {
-  padding: 8px 20px;
+  margin-top: 20px;
+  padding: 2px 20px;
   border-radius: 2px;
   outline: none;
   border: none;
   cursor: pointer;
+}
+.btn-black{
+  background-color: black
 }
 
 .btn--primary {
@@ -23,6 +27,21 @@
   border: 1px solid var(--primary);
   transition: all 0.3s ease-out;
 }
+
+.btn--outline-v2 {
+  background-color: black;
+  color: rgb(219, 127, 127);
+  padding: 8px 20px;
+  border: 1px solid black;
+  transition: all 0.3s ease-out;
+}
+
+.btn--primary-v2 {
+  background-color: black;
+  color: #242424;
+  border: 1px solid black;
+}
+
 
 .btn--medium {
   padding: 8px 20px;

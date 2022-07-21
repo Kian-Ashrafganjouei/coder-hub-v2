@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
+import './Frencgstyle.css'
 
 function Navbar() {
   const [click, setClick] = useState(false);
@@ -44,6 +45,17 @@ function Navbar() {
                 Charts
               </Link>
             </li>
+            
+            <li className='nav-item'>
+              <a
+                href='https://kian-ashrafganjouei.github.io/coder-hub-v2-fr/'
+                className='nav-links '
+                onClick={closeMobileMenu}
+              >
+                French
+              </a>
+            </li>
+          
           </ul>
         </div>
       </nav>
