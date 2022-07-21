@@ -21,7 +21,7 @@ function App() {
 
       <Navbar />
       <Routes>
-        <Route path='coder-hub' element={<Home/>} />
+        <Route path='coder-hub-v2' element={<Home/>} />
         <Route path='pages/Home.js' element={<Home/>} />
         <Route path='pages/Langauges.js' element={<Langauges/>} />
         <Route path='pages/Charts.js' element={<Charts/>} />
