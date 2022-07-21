@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/coder-hub/static/css/main.cf3924ad.css",
-    "main.js": "/coder-hub/static/js/main.bdbb9f06.js",
-    "static/media/occupation.jpg": "/coder-hub/static/media/occupation.d3e2eff46cdc3c509529.jpg",
-    "static/media/lan-tech.jpg": "/coder-hub/static/media/lan-tech.49082b9e491d09032a8a.jpg",
-    "static/media/s1-image.jpg": "/coder-hub/static/media/s1-image.60dc8776210ddbdb8e79.jpg",
-    "static/media/c-sample.jpg": "/coder-hub/static/media/c-sample.528e491964d9029a0c27.jpg",
-    "static/media/python-sample.jpg": "/coder-hub/static/media/python-sample.622dab219a98056a054e.jpg",
-    "static/media/cpp.jpg": "/coder-hub/static/media/cpp.a81cb75aa0029967a450.jpg",
-    "static/media/c.jpg": "/coder-hub/static/media/c.1c977daa10a5fa6bbc1f.jpg",
-    "static/media/home-1.jpg": "/coder-hub/static/media/home-1.6449196f23d4c78278bf.jpg",
-    "static/media/lang-2.jpg": "/coder-hub/static/media/lang-2.19b50a77b12d6e694eaa.jpg",
-    "static/media/age.jpg": "/coder-hub/static/media/age.434d9a6ed1d84af2ed14.jpg",
-    "static/media/charts-4.jpg": "/coder-hub/static/media/charts-4.9143d3ad8656e43ce0aa.jpg",
-    "static/media/java.jpg": "/coder-hub/static/media/java.497af6a19efda125fad9.jpg",
-    "static/media/js.jpg": "/coder-hub/static/media/js.272bbb705f37ed0bc04f.jpg",
-    "static/media/python.jpg": "/coder-hub/static/media/python.279decc8d49ff11cdd08.jpg",
-    "index.html": "/coder-hub/index.html",
-    "main.cf3924ad.css.map": "/coder-hub/static/css/main.cf3924ad.css.map",
-    "main.bdbb9f06.js.map": "/coder-hub/static/js/main.bdbb9f06.js.map"
+    "main.css": "/coder-hub-v2/static/css/main.f7abde15.css",
+    "main.js": "/coder-hub-v2/static/js/main.c4c3d115.js",
+    "static/media/occupation.jpg": "/coder-hub-v2/static/media/occupation.d3e2eff46cdc3c509529.jpg",
+    "static/media/lan-tech.jpg": "/coder-hub-v2/static/media/lan-tech.49082b9e491d09032a8a.jpg",
+    "static/media/s1-image.jpg": "/coder-hub-v2/static/media/s1-image.60dc8776210ddbdb8e79.jpg",
+    "static/media/c-sample.jpg": "/coder-hub-v2/static/media/c-sample.528e491964d9029a0c27.jpg",
+    "static/media/python-sample.jpg": "/coder-hub-v2/static/media/python-sample.622dab219a98056a054e.jpg",
+    "static/media/cpp.jpg": "/coder-hub-v2/static/media/cpp.a81cb75aa0029967a450.jpg",
+    "static/media/c.jpg": "/coder-hub-v2/static/media/c.1c977daa10a5fa6bbc1f.jpg",
+    "static/media/home-1.jpg": "/coder-hub-v2/static/media/home-1.6449196f23d4c78278bf.jpg",
+    "static/media/lang-2.jpg": "/coder-hub-v2/static/media/lang-2.19b50a77b12d6e694eaa.jpg",
+    "static/media/age.jpg": "/coder-hub-v2/static/media/age.434d9a6ed1d84af2ed14.jpg",
+    "static/media/charts-4.jpg": "/coder-hub-v2/static/media/charts-4.9143d3ad8656e43ce0aa.jpg",
+    "static/media/java.jpg": "/coder-hub-v2/static/media/java.497af6a19efda125fad9.jpg",
+    "static/media/js.jpg": "/coder-hub-v2/static/media/js.272bbb705f37ed0bc04f.jpg",
+    "static/media/python.jpg": "/coder-hub-v2/static/media/python.279decc8d49ff11cdd08.jpg",
+    "index.html": "/coder-hub-v2/index.html",
+    "main.f7abde15.css.map": "/coder-hub-v2/static/css/main.f7abde15.css.map",
+    "main.c4c3d115.js.map": "/coder-hub-v2/static/js/main.c4c3d115.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf3924ad.css",
-    "static/js/main.bdbb9f06.js"
+    "static/css/main.f7abde15.css",
+    "static/js/main.c4c3d115.js"
   ]
 }
